@@ -1,1 +1,1 @@
-lesson-1:项目介绍及准备（图片下载地址：https://www.pexels.com/）
+lesson-2:项目创建及导航栏制作
