@@ -1,1 +1,1 @@
-lesson-2:第二课——如何创建网页项目及导航栏制作   
+lesson-1:项目介绍及准备（图片下载地址：https://www.pexels.com/）
