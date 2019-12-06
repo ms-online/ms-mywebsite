@@ -98,6 +98,7 @@ p{
     color:#fff;
     background:#333;
     padding:13px 20px;
+    border:none;
 }
 .btn:hover{
     background:#f7c08a;
@@ -187,6 +188,28 @@ p{
     border-radius:50%;
     float:left;
     margin-right:20px;
+}
+/* contact-form */
+#contact-form .form-group{
+    margin-bottom:20px;
+}
+#contact-form label{
+    display: block;
+    margin-bottom:5px;
+}
+#contact-form input,
+#contact-form textarea{
+    width:100%;
+    padding:10px;
+    border:1px #ddd solid;
+}
+#contact-form textarea{
+    height:200px;
+}
+#contact-form input:focus,
+#contact-form textarea:focus{
+    outline:none;
+    border-color:#f7c08a;
 }
 /* footer */
 #main-footer{
