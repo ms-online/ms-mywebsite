@@ -76,7 +76,7 @@ p{
 /* showcase */
 #showcase{
     background:url('../img/01index-showcase-bg.jpg') no-repeat center center/cover;
-    height:600px;
+    height:100%;
 }
 #showcase .showcase-content{
     color:#fff;
@@ -109,7 +109,7 @@ p{
 }
 /* home-info */
 #home-info{
-    height:400px;
+    height:450px;
 }
 #home-info .info-img{
     float:left;
@@ -167,7 +167,7 @@ p{
 
 /* testimonals */
 #testimonials{
-    height:600px;
+    height:100%;
     background:url('../img/04about-testimonals-bg.jpg') no-repeat center center/cover;
     padding-top:100px;
 }
